@@ -27,7 +27,16 @@ The supporting data for the analysis is described below:
 
 ## Data Manupulation
 
-First we will check if there are any missing data using
+First we will install the `tidyverse` library and load it on RStudio followed by importing data set as dataframe named `usedcars`.
+
+```{r}
+install.packages("tidyverse")
+library(tidyverse)
+
+usedcars <- read_csv("usedcars.csv")
+```
+
+Now we will check if there are any missing data using
 
 ```{r}
 summary(usedcar)
@@ -73,7 +82,7 @@ Name          Location              Year Kilometers_Driven         Fuel_Type    
 
 Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using ` na.omit(usedcars)` function which will remove all the rows having even a single missing values.
 
-Now as I see that the Car Name is a combination of car brand and model. So, to get just the car manufacturer the code written below will be helpful as it getting only manufacturer name will simply our analysis
+Now as I see that the Car Name is a combination of car brand and model. So, to get just the car manufacturer name the code written below will be helpful as getting only manufacturer name will simply our analysis
 
 ```{r}
 usedcars <- usedcars %>% mutate(Manufacturer = substr(Name,1,regexpr(" ",Name)-1))
@@ -84,6 +93,8 @@ The above code will add a new column with name Manufacturer having car brand nam
 usedcars$Manufacturer <- str_replace(df$Manufacturer,"Land","Land-Rover")
 ```
 Now all the data in the `Manufacturer` column is erroe free.
+
+## Data Visualisation
 
 
 
