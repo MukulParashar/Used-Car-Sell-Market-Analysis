@@ -1,4 +1,3 @@
-```{r}
 
 install.packages("tidyverse")
 library(tidyverse)
@@ -63,5 +62,4 @@ ggplot(data = df) +
   geom_histogram(mapping = aes(x = Year, fill =  Transmission), position = "dodge", bins = 100) +
   scale_y_continuous("No of Cars on Sell") +
   scale_x_continuous("Year of Manufacture")
-  ```
-
+ 
