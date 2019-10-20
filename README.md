@@ -111,9 +111,16 @@ As we start analysing and plotting the data we observe that:
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
 
-* **From the above plot we can conclude that electric cars are most efficient and diesel are least efficient as there are very few number of elctric cars and maximum number of diesel cars in the cycle of selling again and again. 
+* **From the above plot we can conclude that electric cars are most efficient and diesel are least efficient as there are very few number of elctric cars and maximum number of diesel cars in the cycle of selling again and again.** 
 
 * **We can also conclude that between two major fuel type cars i.e. Petrol and Diesel, getting a Petrol car is may be more beneficial for a customer than a Diesel car that's why less no. of Petrol cars are on resale compared to Diesel cars.**
+
+![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Auto.png)
+
+* **Most interesting insight that is found with the data as shown in above plot is that the maximum number of cars which are on resale have manual transmission compared to cars on resale with automatic transmission which manufactured during 2013 and 2017 by which we can assmue that:
+
+     **1. More people shifted from cars with manual transmission to cars with automatic transmission and hence those years manufactured cars with manual transmission are on resale in large amount compare to automatic **
+     **2. Cars manufactured between years 2013 and 2017 can have manufacturing defects.**
 
 
 
