@@ -9,6 +9,10 @@ With the help of the analysis, I've tried to answer the following questions:
 **3. Which fuel type and which hand cars are on sell in top 10 brands.**<br/>
 **4. Distribution of Kms travelled by car by fuel type, owner type and Top 10 manufacturer.**<br/>
 
+## Data Manipulation
+
+
+
 
 
 
