@@ -11,6 +11,20 @@ With the help of the analysis, I've tried to answer the following questions:
 
 The supporting data for the analysis is described below:
 
+| Column Name       | Description                                              |
+|-------------------|----------------------------------------------------------|
+| Name              | Name of the Car on Sell                                  |
+| Location          | City of the Car on Sell                                  |
+| Years             | Year of manufacture                                      |   
+| Kilometers_Driven | Kms Car travelled                                        |
+| Fuel_Type         | Petrol, Diesel, CNG, LPG, Electric                       | 
+| Transmission      | Manual, Automatic                                        |
+| Owner_Type        | First Hand, Second Hand, Third Hand, Fourth Hand & Above |
+| Mileage           | Mileage of the Car                                       |
+| Engine            | Engine Displacement                                      |                                      
+| Power             | Power of Engine                                          |
+| Seats             | No. of Seats in Car                                      |
+
 
 
 
