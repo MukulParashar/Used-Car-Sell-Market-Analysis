@@ -107,7 +107,7 @@ As we start analysing and plotting the data we observe that:
 * **The top 10 most selling car brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
-**The reason for plot can be that Maruti being the home brand is more trustable along with easy avaialble services and parts.**
+**The reason for the above plot can be that Maruti being the home brand is more trustable along with easy avaialble services and parts compared to other brands among Top 10 selling brands.**
 
 
 
