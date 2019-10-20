@@ -1,4 +1,4 @@
-## Used Car Sell in India
+## EDA on used cars data on sell in India
 This repository is an exhaustive analytical report on Used Cars Selling Industry in the Tier-1 Cities of 
 India and for that, the supporting data is taken from the `Kaggle`.
 
@@ -24,6 +24,14 @@ The supporting data for the analysis is described below:
 | Engine            | Engine Displacement                                      |                                      
 | Power             | Power of Engine                                          |
 | Seats             | No. of Seats in Car                                      |
+
+## Data Manupulation
+
+First we will check if there are any missing data using
+
+``R
+summary(usedcar)
+``
 
 
 
