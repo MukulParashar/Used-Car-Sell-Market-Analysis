@@ -33,6 +33,29 @@ First we will check if there are any missing data using
 summary(usedcar)
 ```
 
+When we will run the above code we will see the following result in console:
+
+```
+     Name             Location              Year      Kilometers_Driven  Fuel_Type         Transmission      
+ Length:7253        Length:7253        Min.   :1996   Min.   :    171   Length:7253        Length:7253       
+ Class :character   Class :character   1st Qu.:2011   1st Qu.:  34000   Class :character   Class :character  
+ Mode  :character   Mode  :character   Median :2014   Median :  53416   Mode  :character   Mode  :character  
+                                       Mean   :2013   Mean   :  58699                                        
+                                       3rd Qu.:2016   3rd Qu.:  73000                                        
+                                       Max.   :2019   Max.   :6500000                                        
+                                                                                                             
+  Owner_Type          Mileage             Engine             Power               Seats         
+ Length:7253        Length:7253        Length:7253        Length:7253        Min.   : 0.00
+ Class :character   Class :character   Class :character   Class :character   1st Qu.: 5.00
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character   Median : 5.00 
+                                                                             Mean   : 5.28                     
+                                                                             3rd Qu.: 5.00                     
+                                                                             Max.   :10.00                     
+                                                                             NA's   :53 
+ ```
+ 
+                                                                          
+
 
 
 
