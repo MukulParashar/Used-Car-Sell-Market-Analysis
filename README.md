@@ -107,7 +107,7 @@ As we start analysing and plotting the data we observe that:
 * **The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
-**The reason for the above plot can be because of Maruti's due to less efficient cars as compared to other brands.**
+**The reason for the above plot can be because of Maruti's less efficient cars as compared to other brands. Other reasons could be unavailability of parts, improper service and many more.**
 
 
 
