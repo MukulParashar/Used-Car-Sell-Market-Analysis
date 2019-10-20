@@ -104,10 +104,10 @@ As we start analysing and plotting the data we observe that:
 
 **The possible explanation for the above observation can be that as Mumbai being city with heavy traffic more and more people are selling the car they owned and starting to use public commute for travelling.**
 
-* **The top 10 most selling car brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
+* **The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
-**The reason for the above plot can be that Maruti being the home brand is more trustable along with easy avaialble services and parts compared to other brands among Top 10 selling brands.**
+**The reason for the above plot can be because of Maruti's due to less efficient cars as compared to other brands.**
 
 
 
