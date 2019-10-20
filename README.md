@@ -54,6 +54,21 @@ When we will run the above code we will see the following result in console:
                                                                              NA's   :53 
  ```
  
+The above result show that the missing values are only available in `Seats` Variable. But, here's the catch. The `summary()`
+function do not show all the missing values. Therefore, will be use the `colSums()` function.
+
+```{r}
+colSums(usedcars)
+```
+
+And the above will give the following result in the console:
+
+```
+Name          Location              Year Kilometers_Driven         Fuel_Type      Transmission 
+                0                 0                 0                 0                 0                 0 
+       Owner_Type           Mileage            Engine             Power             Seats
+                0                 2                46                46                53
+```                
                                                                           
 
 
