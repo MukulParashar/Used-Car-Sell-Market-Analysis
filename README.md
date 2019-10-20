@@ -109,7 +109,7 @@ As we start analysing and plotting the data we observe that:
 
 **The reason for the above plot can be because of Maruti's less efficient cars as compared to other brands. Other reasons could be unavailability of parts, improper service and many more.**
 
-![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Manufacturer.png) ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Manufacturer%20Owner%20type.png)
+![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Manufacturer.png) | ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Manufacturer%20Owner%20type.png)
 
 
 
