@@ -29,9 +29,9 @@ The supporting data for the analysis is described below:
 
 First we will check if there are any missing data using
 
-``R
+```{r}
 summary(usedcar)
-``
+```
 
 
 
