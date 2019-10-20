@@ -109,7 +109,9 @@ As we start analysing and plotting the data we observe that:
 
 **The reason for the above plot can be because of Maruti's less efficient cars as compared to other brands. Other reasons could be unavailability of parts, improper service and many more.**
 
-![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png) | ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/1.png)
+![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
+
+* **From the above plot we can conclude that electric cars are most efficient and diesel are least efficient as there are very few number of elctric cars on sale and maximum number of diesel cars on sale. We can also conclude that between two major  fuel type cars i.e. Petrol and Diesel, getting a Petrol car is may be more beneficial for a customer than a Diesel car that's why less no. of Petrol cars are on resale compared to Diesel cars.
 
 
 
