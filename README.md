@@ -71,7 +71,21 @@ Name          Location              Year Kilometers_Driven         Fuel_Type    
                 
 ```
 
-Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using ` na.omit(*df*)` function
+Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using ` na.omit(usedcars)` function which will remove all the rows having even a single missing values.
+
+Now as I see that the Car Name is a combination of car brand and model. So, to get just the car manufacturer the code written below will be helpful as it getting only manufacturer name will simply our analysis
+
+```{r}
+usedcars <- usedcars %>% mutate(Manufacturer = substr(Name,1,regexpr(" ",Name)-1))
+```
+The above code will add a new column with name Manufacturer having car brand name in it. I observe that in the new column `Manufacturer` the car manufactured by Land Rover is returned as Land only. To correct `str_replace()` function will be used.
+
+```{r}
+usedcars$Manufacturer <- str_replace(df$Manufacturer,"Land","Land-Rover")
+```
+Now all the data in the `Manufacturer` column is erroe free.
+
+
 
 
 
