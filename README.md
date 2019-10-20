@@ -119,7 +119,7 @@ As we start analysing and plotting the data we observe that:
 
 * **Most interesting insight that is found with the data as shown in above plot is that the maximum number of cars which are on resale have manual transmission compared to cars on resale with automatic transmission which manufactured during 2013 and 2017 by which we can assmue that:**
 
-     **1. More people shifted from cars with manual transmission to cars with automatic transmission and hence those years manufactured cars with manual transmission are on resale in large amount compare to automatic.**
+     **1. More people shifted from cars with manual transmission to cars with automatic transmission and hence those years manufactured cars with manual transmission are on resale in large amount compare to automatic.**<br\>
      **2. Cars manufactured between years 2013 and 2017 can have manufacturing defects.**
 
 
