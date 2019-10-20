@@ -71,7 +71,7 @@ Name          Location              Year Kilometers_Driven         Fuel_Type    
                 
 ```
 
-Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using `{r} na.omit()` function
+Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using ```{r} na.omit()``` function
 
 
 
