@@ -109,7 +109,7 @@ As we start analysing and plotting the data we observe that:
 
 **The reason for the above plot can be because of Maruti's less efficient cars as compared to other brands. Other reasons could be unavailability of parts, improper service and many more.**
 
-**But if we go deeper analysis we can say that most people are ditching Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment with the help of the plot shown below**
+**But if we do deeper analysis, we can assume that most people are switching from Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment to other cars with the help of the plot shown below**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png)
 
