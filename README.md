@@ -98,6 +98,8 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 As we start analysing the data we see the No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell
 
+![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
+
 
 
 
