@@ -19,7 +19,7 @@ The supporting data for the analysis is described below:
 | Kilometers_Driven | Kms Car travelled                                        |
 | Fuel_Type         | Petrol, Diesel, CNG, LPG, Electric                       | 
 | Transmission      | Manual, Automatic                                        |
-| Owner_Type        | First Hand, Second Hand, Third Hand, Fourth Hand & Above |
+| Owner_Type        | First, Second, Third, Fourth Hand & Above                |
 | Mileage           | Mileage of the Car                                       |
 | Engine            | Engine Displacement                                      |                                      
 | Power             | Power of Engine                                          |
@@ -96,9 +96,18 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 ## Data Visualisation
 
-As we start analysing the data we see the No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell
+As we start analysing and plotting the data we observe that:
+
+* **No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell.**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
+
+**The possible explanation for the above observation can be that as Mumbai being city with heavy traffic more and more people are selling the car they owned and starting to use public commute for travelling.**
+
+* **The top 10 most selling car brands are shown in the plot below where the most selling Maruti Cars among all owner type
+![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
+
+**The reason for plot can be that Maruti being the home brand is more trustable along with easy avaialble services and parts.**
 
 
 
