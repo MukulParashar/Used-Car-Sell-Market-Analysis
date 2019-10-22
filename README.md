@@ -19,7 +19,7 @@ The supporting data for the analysis is described below:
 | Kilometers_Driven | Kms Car travelled                                        |
 | Fuel_Type         | Petrol, Diesel, CNG, LPG, Electric                       | 
 | Transmission      | Manual, Automatic                                        |
-| Owner_Type        | First, Second, Third, Fourth Hand & Above                |
+| Owner_Type        | First, Second, Third, Fourth & Above                     |
 | Mileage           | Mileage of the Car                                       |
 | Engine            | Engine Displacement                                      |                                      
 | Power             | Power of Engine                                          |
