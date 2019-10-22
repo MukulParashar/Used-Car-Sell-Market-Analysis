@@ -96,7 +96,7 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 ## Data Visualisation
 
-**Ques1. Which city people majorly put their car on sell.**
+**Ques1. Which city people majorly put their car on sell.** <br/>
 
 * **No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell.**
 
@@ -104,6 +104,8 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 **The possible explanation for the above observation can be that as Mumbai being city with heavy traffic more and more people are selling the car they owned and starting to use public commute for travelling.**
 
+**2. Which car brands are majorly on sale.**
+<br/>
 * **The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
@@ -112,6 +114,9 @@ Now all the data in the `Manufacturer` column is erroe free.
 **But if we do deeper analysis, we can assume that most people are switching from Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment to other cars with the help of the plot shown below**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png)
+
+
+**3. Which fuel type and which hand cars are on sell in top 10 brands.**<br/>
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
 
