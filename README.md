@@ -104,6 +104,8 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 The possible assumption for the above observation can be that as Mumbai being financial capital of country, it's easy for an average person to own a car hence more car are owned by people other than any city but with large population and heavy traffic more and more people are now relying on cab services thus more cars are available in market to sell.
 
+![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/PercentageCarsLocation.png)
+
 
 **2. Which car brands are majorly on sale.**
 <br/>
