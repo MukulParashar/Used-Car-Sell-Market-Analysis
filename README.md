@@ -135,7 +135,7 @@ The possible assumption for the above observation can be that as Mumbai being fi
      <br/>
      **2. Cars manufactured between years 2013 and 2017 can have manufacturing defects.**
     
-##### Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made. 
+##### Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made. .
 
 
 
