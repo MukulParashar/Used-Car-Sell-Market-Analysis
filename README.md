@@ -102,7 +102,8 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
 
-**The possible explanation for the above observation can be that as Mumbai being city with heavy traffic more and more people are selling the car they owned and starting to use public commute for travelling.**
+The possible explanation for the above observation can be that as Mumbai being financial capital of country, it's easy for an average person to own a car but with large population and heavy traffic more and more people are now relying on cab services thus selling the car they owned.
+
 
 **2. Which car brands are majorly on sale.**
 <br/>
