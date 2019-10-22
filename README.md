@@ -96,7 +96,7 @@ Now all the data in the `Manufacturer` column is erroe free.
 
 ## Data Visualisation
 
-As we start analysing and plotting the data we observe that:
+**Ques1. Which city people majorly put their car on sell.**
 
 * **No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell.**
 
