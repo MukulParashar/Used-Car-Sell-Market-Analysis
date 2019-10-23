@@ -149,7 +149,8 @@ Most interesting insight that is found with the data as shown in above plot is t
 With the help of above two plots we can clearly obseve that Cars which are manufactured between 2012 and 2018 of manual type has high mileage also we can see cars of CNG fuel type have high mileage.
 
 Therefore we can conclude that the reason behind sell of Diesel and Petrol Cars is that more and more people are maybe switching to Manual transmission CNG type car as it will be really cost effective to the buyer due to high mileage of car at low fuel cost.
-**(Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made.)**
+
+**(Note: The concluded points will have been more strong if price column has been available in dataset. But is not, possible assumptions are made.)**
 
 
 
