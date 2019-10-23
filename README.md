@@ -112,16 +112,17 @@ The possible assumption for the above observation could be that as Mumbai being 
 
 <br/>
 **2. Which car brands are majorly on sale.**
-<br/>
-* **The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
+
+* The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
-**The reason for the above plot can be because of Maruti's less efficient cars as compared to other brands. Other reasons could be unavailability of parts, improper service and many more.**
-
-**But if we do deeper analysis, we can assume that most people are switching from Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment to other cars with the help of the plot shown below**
+But if we go into deeper analysis, we can observe from the the plot below that Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment are majorly available on sale**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png)
 
+One possible reason for such market situation is that as Maruti and Hyundai has failry large market share than other brands due to large number of affordable car models, major population owned these two. But as Maruti launched it's premium cars category Nexa and Hyundai launched it's one of the most affordable SUV Creta, more no. of peoples has put their old maruti and hyundai car on sale and maybe want to own the premium affordable cars in the same brands.
+
+<br/>
 
 **3. Which fuel type and which hand cars are on sell in top 10 brands.**<br/>
 
