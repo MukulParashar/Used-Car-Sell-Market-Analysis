@@ -131,6 +131,8 @@ From the above plot we can conclude that electric cars are in least number to re
 
 Also to explain why petrol and diesel cars are  on sale in large number with the help of supporting plot shown below. It clearly indicates that the milegae of CNG cars is much higher than any other fuel type and also cost of CNG is much cheaper than other fuel types therefore we can make a possible assumption why people are selling more and more petrol and diesel cars.
 
+**(Note: The concluded point above will have been more strong if price column has been available in data set. But is not, possible assumptions are made)**
+
 ![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/milefuelowner.png)
 
 **Ques4. Which year manufactured car are more on resale**
@@ -147,8 +149,7 @@ Most interesting insight that is found with the data as shown in above plot is t
 With the help of above two plots we can clearly obseve that Cars which are manufactured between 2012 and 2018 of manual type has high mileage also we can see cars of CNG fuel type have high mileage.
 
 Therefore we can conclude that the reason behind sell of Diesel and Petrol Cars is that more and more people are maybe switching to Manual transmission CNG type car as it will be really cost effective to the buyer due to high mileage of car at low fuel cost.
-    
-##### Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made.
+**(Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made.)**
 
 
 
