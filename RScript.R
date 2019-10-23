@@ -1,8 +1,10 @@
 
 install.packages("tidyverse")
 library(tidyverse)
+install.packages("readxl")
+library(readxl)
 
-usedcars <- read_csv("usedcar.csv")
+usedcars <- read_csv("usedcar.xlsx")
 
 summary(usedcars)
 colSums(is.na(usedcars))
