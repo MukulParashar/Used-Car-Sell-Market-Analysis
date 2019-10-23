@@ -122,13 +122,17 @@ But if we go into deeper analysis, we can observe from the the plot below that H
 One possible reason for such market situation is that as Maruti and Hyundai has fairly large market share than other brands due to large number of affordable car models, major population owned these two. But as Maruti launched it's affordable premium cars category Nexa and Hyundai launched it's one of the most affordable SUV Creta, more no. of peoples has put their old maruti and hyundai car on sale and maybe want to own the premium affordable cars in the same brands at almost same price.
 
 
-**3. Which fuel type and which hand cars are on sell in top 10 brands.**
+**3. Which fuel type and which hand cars are majorly on sale.**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
 
-* **From the above plot we can conclude that electric cars are in least number to resale because less companies has entered Indian market which are manufacturing electric cars.** 
+* From the above plot we can conclude that electric cars are in least number to resale because currently less companies are present Indian market which are manufacturing electric cars. 
 
-* **We can also assume from above that between two major fuel type cars i.e. Petrol and Diesel, we know that buying a Petrol car is more beneficial for a customer than buying a Diesel car because engine efficiency of Petrol cars is more than Diesel cars that's why less no. of Petrol cars are on resale compared to Diesel cars.**
+Also to explain why petrol and diesel cars are  on sale in large number bwith the help of supporting plot shown below. It clearly indicates that the milegae of CNG cars is much higher than any other fuel type and also cost of CNG is much cheaper than other fuel types therefore we can make a possible assumption why people are selling more and more petrol and diesel cars.
+
+![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/milefuelowner.png)
+
+**Ques4. Which year manufactured car are more on resale**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Auto.png)
 
