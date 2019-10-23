@@ -93,7 +93,7 @@ Also, one interesting observation is clearly visible from `summary(usedcars)` is
 df$Mileage <- as.numeric(substr(df$Mileage,1,regexpr(" ",df$Mileage)-1))
 ```
 
-Now as our data is manipulated and is converted into desirable data type we can remove missing values using `na.omit(usedcars)` function which will remove all the rows having even a single missing values at the end. 
+Now as our data is manipulated and is converted into desirable data type we can remove missing values using `na.omit(usedcars)` function which will remove all the rows having even a single missing values at the end.<br/>
 **(`na.omit()` is not advisable when there are large number of missing values becaue if we do that it may be possible we will be left with less data points not enough to support our analysis)**
 
 ## Data Visualisation
