@@ -102,15 +102,15 @@ Now let's try to find out answer some of the questions from the data.
 
 **Ques1. Which city people majorly put their car on sell.** <br/>
 
-* We can observe from the plot below that Mumbai is having maximum number of used cars to sell.*
+* We can observe from the plot below that Mumbai is having maximum number of used cars to sell in which approximately 85% used cars are with first owner, 10% used cars are with second owner and 5% used cars are with third owner.*
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
 
-The possible assumption for the above observation can be that as Mumbai being financial capital of country, it's easy for an average person to own a car hence more car are owned by people other than any city but with large population and heavy traffic more and more people are now relying on cab services thus more cars are available in market to sell.
-
 ![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/PercentageCarsLocation1.png)
+<br/>
+The possible assumption for the above observation could be that as Mumbai being financial capital of country, it's easy for an average person to own a car hence more car are owned by people other than any city but with large population and heavy traffic more and more people are now relying on cab services thus more cars are available in market for sale.
 
-
+<br/>
 **2. Which car brands are majorly on sale.**
 <br/>
 * **The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.**
