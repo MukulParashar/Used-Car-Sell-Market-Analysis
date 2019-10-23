@@ -20,11 +20,13 @@ The supporting data for the analysis is described below:
 
 ## Data Manupulation
 
-First we will install the `tidyverse` library and load it on RStudio followed by importing data set as dataframe named `usedcars`.
+First we will install the `tidyverse` library and load it on RStudio followed by importing data set as dataframe named `usedcars`. As file is in .xlsx format `readxl` packages will also be installed.
 
 ```{r}
 install.packages("tidyverse")
 library(tidyverse)
+install.packages("readxl")
+library(readxl)
 
 usedcars <- read_csv("usedcars.csv")
 ```
