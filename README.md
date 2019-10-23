@@ -127,9 +127,9 @@ One possible reason for such market situation is that as Maruti and Hyundai has 
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
 
-* From the above plot we can conclude that electric cars are in least number to resale because currently less companies are present Indian market which are manufacturing electric cars. 
+From the above plot we can conclude that electric cars are in least number to resale because currently less companies are present Indian market which are manufacturing electric cars. 
 
-Also to explain why petrol and diesel cars are  on sale in large number bwith the help of supporting plot shown below. It clearly indicates that the milegae of CNG cars is much higher than any other fuel type and also cost of CNG is much cheaper than other fuel types therefore we can make a possible assumption why people are selling more and more petrol and diesel cars.
+Also to explain why petrol and diesel cars are  on sale in large number with the help of supporting plot shown below. It clearly indicates that the milegae of CNG cars is much higher than any other fuel type and also cost of CNG is much cheaper than other fuel types therefore we can make a possible assumption why people are selling more and more petrol and diesel cars.
 
 ![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/milefuelowner.png)
 
