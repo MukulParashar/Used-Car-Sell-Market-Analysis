@@ -1,6 +1,6 @@
 ## EDA on used cars data on sell in India 
 This repository is an exhaustive analytical report on Used Cars Selling Industry in the major cities of 
-India and for that, the supporting data is a dummy data taken from the `Kaggle`.
+India and for that, the supporting data is hypothetical data taken from the `Kaggle`.
 
 The supporting data for the analysis is described below:
 
