@@ -102,7 +102,7 @@ Now let's try to find out answer some of the questions from the data.
 
 **Ques1. Which city people majorly put their car on sell.** <br/>
 
-* We can observe from the plot below that Mumbai is having maximum number of used cars to sell in which approximately 85% used cars are with first owner, 10% used cars are with second owner and 5% used cars are with third owner.*
+We can observe from the plot below that Mumbai is having maximum number of used cars to sell in which approximately 85% used cars are with first owner, 10% used cars are with second owner and 5% used cars are with third owner.*
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
 
@@ -112,10 +112,11 @@ The possible assumption for the above observation could be that as Mumbai being 
 
 **Ques2. Which car brands are majorly on sale.**
 
-* The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type
+The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type.
+
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
 
-But if we go into deeper analysis, we can observe from the the plot below that Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment are majorly available on sale**
+But if we go into deeper analysis, we can observe from the the plot below that Hyundai Cars in Petrol segment and Maruti Cars in Diesel segment are majorly available on sale.
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png)
 
@@ -136,11 +137,16 @@ Also to explain why petrol and diesel cars are  on sale in large number bwith th
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Auto.png)
 
-* **Most interesting insight that is found with the data as shown in above plot is that the maximum number of cars which are on resale have manual transmission compared to cars on resale with automatic transmission which manufactured during 2013 and 2017 by which we can assmue that:**
+Most interesting insight that is found with the data as shown in above plot is that the maximum number of cars which are on resale have manual transmission compared to cars on resale with automatic transmission which manufactured during 2012 and 2018 by which we can assmue that. If we go into deeper analysis as shown in plots below:
 
-     **1. More people has shifted from cars with manual transmission to automatic transmission due to ease of driving.**<br/>
-     <br/>
-     **2. Cars manufactured between years 2013 and 2017 can have manufacturing defects.**
+![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/mileTrans.png)
+
+
+![alt text](https://github.com/MukulParashar/Used-Car-Sell-Market-Analysis/blob/master/images/mile.png)
+
+With the help of above two plots we can clearly obseve that Cars which are manufactured between 2012 and 2018 of manual type has high mileage also we can see cars of CNG fuel type have high mileage.
+
+Therefore we can conclude that the reason behind sell of Diesel and Petrol Cars is that more and more people are maybe switching to CNG type car it will be really cost effective to the buyer as it gives high mileage at low fuel cost.
     
 ##### Note: The concluded points will have been more strong if price column has been available. But is not, possible assumptions are made.
 
