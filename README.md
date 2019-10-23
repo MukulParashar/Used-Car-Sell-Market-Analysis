@@ -39,7 +39,7 @@ usedcars <- read_csv("usedcars.csv")
 Now we will check if there are any missing data using
 
 ```{r}
-summary(usedcar)
+summary(usedcars)
 ```
 
 When we will run the above code we will see the following result in console:
@@ -80,7 +80,7 @@ Name          Location              Year Kilometers_Driven         Fuel_Type    
                 
 ```
 
-Now it is clear that there are many more other type of missing values than NA. Hence they need to be removed using ` na.omit(usedcars)` function which will remove all the rows having even a single missing values.
+Now it is clear that there are many more other type of missing values than NA
 
 Now as I see that the Car Name is a combination of car brand and model. So, to get just the car manufacturer name the code written below will be helpful as getting only manufacturer name will simply our analysis
 
@@ -93,6 +93,15 @@ The above code will add a new column with name Manufacturer having car brand nam
 usedcars$Manufacturer <- str_replace(df$Manufacturer,"Land","Land-Rover")
 ```
 Now all the data in the `Manufacturer` column is erroe free.
+
+
+Also, one interesting observation is clearly visible from `summary(usedcars)` is that Mileage is charachter data type format but should be of numeric data type. So we will convert the data type of Mileage by first extracting the number string from the Mileage which look like `"16.63 kmpl"` and then using `as.numeric()` to covert it into numeric data type by running the code shown below:
+```{r}
+df$Mileage <- as.numeric(substr(df$Mileage,1,regexpr(" ",df$Mileage)-1))
+```
+
+Now as our data is manipulated and is converted into desirable data type we can remove missing values using `na.omit(usedcars)` function which will remove all the rows having even a single missing values at the end. 
+**(`na.omit()` is not advisable when there are large number of missing values becaue if we do that it may be possible we will be left with less data points not enough to support our analysis)**
 
 ## Data Visualisation
 
