@@ -110,8 +110,7 @@ Now let's try to find out answer some of the questions from the data.
 <br/>
 The possible assumption for the above observation could be that as Mumbai being financial capital of country, it's easy for an average person to own a car hence more car are owned by people other than any city but with large population and heavy traffic more and more people are now relying on cab services thus more cars are available in market for sale.
 
-<br/>
-**2. Which car brands are majorly on sale.**
+**Ques2. Which car brands are majorly on sale.**
 
 * The top 10 most selling used cars brands are shown in the plot below where the most selling Maruti Cars among all owner type
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/top%2010%20brands.png)
@@ -122,7 +121,6 @@ But if we go into deeper analysis, we can observe from the the plot below that H
 
 One possible reason for such market situation is that as Maruti and Hyundai has fairly large market share than other brands due to large number of affordable car models, major population owned these two. But as Maruti launched it's affordable premium cars category Nexa and Hyundai launched it's one of the most affordable SUV Creta, more no. of peoples has put their old maruti and hyundai car on sale and maybe want to own the premium affordable cars in the same brands at almost same price.
 
-<br/>
 
 **3. Which fuel type and which hand cars are on sell in top 10 brands.**
 
