@@ -80,7 +80,7 @@ Name          Location              Year Kilometers_Driven         Fuel_Type    
                 
 ```
 
-Now it is clear that there are many more other type of missing values than NA
+Now it is clear that there are many more other types of missing values than NA's
 
 Now as I see that the Car Name is a combination of car brand and model. So, to get just the car manufacturer name the code written below will be helpful as getting only manufacturer name will simply our analysis
 
