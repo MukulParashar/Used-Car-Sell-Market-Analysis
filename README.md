@@ -120,11 +120,11 @@ But if we go into deeper analysis, we can observe from the the plot below that H
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Rplot06.png)
 
-One possible reason for such market situation is that as Maruti and Hyundai has failry large market share than other brands due to large number of affordable car models, major population owned these two. But as Maruti launched it's premium cars category Nexa and Hyundai launched it's one of the most affordable SUV Creta, more no. of peoples has put their old maruti and hyundai car on sale and maybe want to own the premium affordable cars in the same brands.
+One possible reason for such market situation is that as Maruti and Hyundai has fairly large market share than other brands due to large number of affordable car models, major population owned these two. But as Maruti launched it's affordable premium cars category Nexa and Hyundai launched it's one of the most affordable SUV Creta, more no. of peoples has put their old maruti and hyundai car on sale and maybe want to own the premium affordable cars in the same brands at almost same price.
 
 <br/>
 
-**3. Which fuel type and which hand cars are on sell in top 10 brands.**<br/>
+**3. Which fuel type and which hand cars are on sell in top 10 brands.**
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/Fuel%20type%20Owner%20type.png)
 
