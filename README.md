@@ -1,4 +1,4 @@
-## EDA on used cars data on sell in India
+## EDA on used cars data on sell in India 
 This repository is an exhaustive analytical report on Used Cars Selling Industry in the Tier-1 Cities of 
 India and for that, the supporting data is taken from the `Kaggle`.
 
@@ -102,7 +102,7 @@ Now let's try to find out answer some of the questions from the data.
 
 **Ques1. Which city people majorly put their car on sell.** <br/>
 
-* **No. of cars on sell in different cities of India with Mumbai having maximum number of cars to sell.**
+* We can observe from the plot below that Mumbai is having maximum number of used cars to sell.*
 
 ![alt text](https://github.com/MukulParashar/Used_Car_Sell_India/blob/master/images/City%20and%20Cars%20Count.png)
 
